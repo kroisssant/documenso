@@ -6,7 +6,7 @@ export const appMetaTags = (title?: string) => {
 
   return [
     {
-      title: title ? `${title} - Documenso` : 'Documenso',
+      title: 'GateClaim – your documents are ready',
     },
     {
       name: 'description',
